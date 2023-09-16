@@ -1,0 +1,8 @@
+class Dinheiro:
+	def __init__ (self, cor, valor, tamanho)
+		self.cor = cor
+    self.valor = valor
+    self.tamanho = tamanho
+Nota1 = Dinheiro("verde", "50 reais", "medio")
+Nota2 = Dinheiro("azul", "100 reais", "grande")
+print(Nota2.self)
